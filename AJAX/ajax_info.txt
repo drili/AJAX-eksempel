@@ -1,0 +1,1 @@
+Hejsa denne tekst kommer fra en tekst-fil som bliver hentet ved hjælp af AJAX.
